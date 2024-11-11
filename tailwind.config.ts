@@ -20,7 +20,7 @@ export default {
         "hero-bg1": "url('/bg-imgs/hero-background1.png')",
         "hero-bg2": "url('/bg-imgs/hero-background2.png')",
         "features-bg": "url('/bg-imgs/features-bg.png')",
-        "spacer-img": "url('/bg-imgs/spacer-image.png')",
+        "spacer-img": "url('/bg-imgs/spacer-Image.png')",
         "stats-bg": "url('/bg-imgs/stats-bg.png')",
         "news-bg": "url('/bg-imgs/news-bg.png')",
       },
